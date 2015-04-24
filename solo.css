@@ -1,0 +1,23 @@
+
+#container{ 
+	width: 500px;
+	position: absolute;
+	background-color: #03A9F4;
+	text-align: center;
+	margin-top: 50px;
+	margin-left: 150px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+
+}
+
+#generator {
+	margin-left: 50px;
+	margin-top: 50px;
+	color: white;
+	background-color: black;
+	position:absolute;
+}
+}
